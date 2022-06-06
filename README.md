@@ -1,1 +1,1 @@
-i am working now
+this is a README.md dovument for 0x02-shell_redirections
